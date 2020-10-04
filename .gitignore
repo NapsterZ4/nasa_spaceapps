@@ -139,3 +139,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+!/scripts/S5P_OFFL_L2__NO2____20181130T132824_20181130T150953_05862_01_010202_20181206T150915.nc
+!/scripts/3B-DAY.MS.MRG.3IMERG.20171001-S000000-E235959.V06.nc4
+!/workspace/training_demo/pre-trained-models/
+!/workspace/training_demo/pre-trained-models/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8/
+!/workspace/training_demo/pre-trained-models/ssd_resnet50_v1_fpn_1024x1024_coco17_tpu-8/
