@@ -34,7 +34,7 @@ At the team level, communication and creativity are somewhat affected by social 
 The data played a fundamental role in the development of the artificial intelligence model and its subsequent training, thanks to the images (they were extracted from GIBS, NASA's Terra and Aqua missions). The process carried the conversion of the format used for the visualization in the GIBS platform to jpg, for an easy use of images in the model that were segmented to recognize the formation of hurricanes from the images.
 
 # How to use model
-The project uses an architecture of a pre-trained ResNet type model offered by Tensorflow 2.2.0. In the [Trained model workspace] file (current URL to navigate)
+The project uses an architecture of a pre-trained ResNet type model offered by Tensorflow 2.2.0. In the [Trained model workspace] file (current URL to navigate). It will also be necessary to install the configuration files and installation process of [Tensorflow API Object Detection] (https://github.com/tensorflow/models) in the same working directory.
 
 This file must be added to the root directory of your workbench in order to test the model.
 
